@@ -3,7 +3,7 @@
 - 🌱 Atualmente eu ando aprendendo Python e Lógica de programação
 - 📫 A rede social que eu mais uso é o Discord. Você pode me adicionar lá pelo meu username --> "liberdade#0001"
 - 😄 Meus pronomes são ele/dele
-- ⚡ Criei essa conta no GitHub em 2016 quando comecei a pensar em programar mas apenas no final de 2021 que realmente comecei a dar uma andada nessa direção.
+- ⚡ Criei essa conta no GitHub em 2016 quando comecei a pensar em programar. No entanto, apenas no final de 2021 que realmente comecei a dar uma andada nessa direção.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
