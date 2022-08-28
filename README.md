@@ -1,8 +1,8 @@
-## Aoba, bão? Seja bem-vindo ao meu perfil do GitHub! 
+## Aoba, bão? Seja bem-vinde ao meu perfil do GitHub! 
 
 - 🌱 Atualmente eu ando aprendendo Python e Lógica de programação
 - 📫 A rede social que eu mais uso é o Discord. Você pode me adicionar lá pelo meu username --> "liberdade#0001"
-- 😄 Meus pronomes são ele/dele
+- 😄 Meus pronomes são ela/dela
 - ⚡ Criei essa conta no GitHub em 2016 quando comecei a pensar em programar. No entanto, apenas no final de 2021 que realmente comecei a dar uma andada nessa direção.
 
 <div style="display: inline_block"><br>
